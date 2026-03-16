@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Disallow common non-SEO resources (optional tuning)
+Disallow: /_next/
+Disallow: /api/
+
+Sitemap: https://www.innovad.pe/sitemap.xml
